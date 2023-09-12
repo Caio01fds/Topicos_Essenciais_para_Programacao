@@ -1,2 +1,7 @@
-# Turma_b_boomerang
-Caio Felipe Diniz de Souza
+# Branch do Juan Fiuza
+
+Branch criada especialmente para Push do aluno Juan Fiuza
+
+## Autor
+
+- [@JuanFiuza](https://www.github.com/JuanFiuza)
